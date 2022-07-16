@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react_website_tutorialv1/static/css/main.10798c19.css",
+    "main.js": "/react_website_tutorialv1/static/js/main.b406689c.js",
+    "static/media/img-2.jpg": "/react_website_tutorialv1/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/img-4.jpg": "/react_website_tutorialv1/static/media/img-4.a31875b76d39f6458a6e.jpg",
+    "static/media/img-8.jpg": "/react_website_tutorialv1/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "index.html": "/react_website_tutorialv1/index.html",
+    "main.10798c19.css.map": "/react_website_tutorialv1/static/css/main.10798c19.css.map",
+    "main.b406689c.js.map": "/react_website_tutorialv1/static/js/main.b406689c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10798c19.css",
+    "static/js/main.b406689c.js"
+  ]
+}
